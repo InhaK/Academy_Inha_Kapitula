@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1537536694517' stop='1537536702169'>
+    <name>Administration Functionality</name>
+    <title>Administration Functionality</title>
+    <test-cases>
+        <test-case start='1537536694517' status='passed' stop='1537536702166'>
+            <name>User should be able to delete the product</name>
+            <title>User should be able to delete the product</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1537536699145' status='passed' stop='1537536699247'>
+                    <name>Click Login button</name>
+                    <title>Click Login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536699247' status='passed' stop='1537536699367'>
+                    <name>Click on password field</name>
+                    <title>Click on password field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536699367' status='passed' stop='1537536699440'>
+                    <name>Click on email field</name>
+                    <title>Click on email field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536699440' status='passed' stop='1537536699528'>
+                    <name>Enter email</name>
+                    <title>Enter email</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536699528' status='passed' stop='1537536699590'>
+                    <name>Enter password</name>
+                    <title>Enter password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536699590' status='passed' stop='1537536699666'>
+                    <name>Click Sign In button</name>
+                    <title>Click Sign In button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536699919' status='passed' stop='1537536699978'>
+                    <name>Click Administration tab</name>
+                    <title>Click Administration tab</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536701046' status='passed' stop='1537536701364'>
+                    <name>Input to Search field</name>
+                    <title>Input to Search field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536701447' status='passed' stop='1537536701511'>
+                    <name>Click on Product</name>
+                    <title>Click on Product</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536701511' status='passed' stop='1537536701604'>
+                    <name>Click Delete button</name>
+                    <title>Click Delete button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536701792' status='passed' stop='1537536701862'>
+                    <name>Confirm deleting of product</name>
+                    <title>Confirm deleting of product</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='afd62f6e-5af3-4247-be72-354c4107641f-attachment.png' type='image/png' size='50495'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

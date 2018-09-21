@@ -1,0 +1,125 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "User should be able to access Administration tab",
+    "uid" : "fb9e37d4e7d80e8b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537537562954,
+      "stop" : 1537537570469,
+      "duration" : 7515
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "User should be able to create and save product",
+    "uid" : "218b908591d0f0d7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537537577777,
+      "stop" : 1537537590595,
+      "duration" : 12818
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "Error message should be displayed if user is trying to login with invalid credentials",
+    "uid" : "add0d2cadc6c1f2f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537537546524,
+      "stop" : 1537537556892,
+      "duration" : 10368
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "User should be able to edit the product",
+    "uid" : "3fd7977922f8cecf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537537597784,
+      "stop" : 1537537605539,
+      "duration" : 7755
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Error should be displayed if Password field is empty",
+    "uid" : "a6b7ad6a7bbadfdc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537537541316,
+      "stop" : 1537537546521,
+      "duration" : 5205
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "User should be able to login into eds_university.eleks.com",
+    "uid" : "cc6259f316674ae9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537537556896,
+      "stop" : 1537537562951,
+      "duration" : 6055
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "User should be able to search for a product",
+    "uid" : "422f74c9f9f998d2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537537590599,
+      "stop" : 1537537597779,
+      "duration" : 7180
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Error message should be shown if required Name field is empty",
+    "uid" : "31096f4a2a9145db",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537537570472,
+      "stop" : 1537537577773,
+      "duration" : 7301
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "User should be able to delete the product",
+    "uid" : "96785eef68fdd1fa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537537605543,
+      "stop" : 1537537613646,
+      "duration" : 8103
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "Error should be displayed if User field is empty",
+    "uid" : "5d085554db4623cd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537537536013,
+      "stop" : 1537537541309,
+      "duration" : 5296
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

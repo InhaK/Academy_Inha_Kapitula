@@ -1,0 +1,210 @@
+{
+  "uid" : "a6b7ad6a7bbadfdc",
+  "name" : "Error should be displayed if Password field is empty",
+  "fullName" : "Login Functionality.Error should be displayed if Password field is empty",
+  "historyId" : "a481faae4f5e599ce2ce472990d36f1f",
+  "time" : {
+    "start" : 1537537541316,
+    "stop" : 1537537546521,
+    "duration" : 5205
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click Login button",
+      "time" : {
+        "start" : 1537537545757,
+        "stop" : 1537537545836,
+        "duration" : 79
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on password field",
+      "time" : {
+        "start" : 1537537545836,
+        "stop" : 1537537545946,
+        "duration" : 110
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on email field",
+      "time" : {
+        "start" : 1537537545946,
+        "stop" : 1537537546013,
+        "duration" : 67
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter email",
+      "time" : {
+        "start" : 1537537546013,
+        "stop" : 1537537546093,
+        "duration" : 80
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter password",
+      "time" : {
+        "start" : 1537537546093,
+        "stop" : 1537537546143,
+        "duration" : 50
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Sign In button",
+      "time" : {
+        "start" : 1537537546143,
+        "stop" : 1537537546237,
+        "duration" : 94
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "90c7a55c4c6aa0fd",
+      "name" : "Screenshot",
+      "source" : "90c7a55c4c6aa0fd.png",
+      "type" : "image/png",
+      "size" : 17749
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Error should be displayed if Password field is empty"
+  }, {
+    "name" : "package",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3cd7b3a465382653",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537272827,
+        "stop" : 1537537278018,
+        "duration" : 5191
+      }
+    }, {
+      "uid" : "d71a57f4179c6e82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537143947,
+        "stop" : 1537537149179,
+        "duration" : 5232
+      }
+    }, {
+      "uid" : "fea6e7b3d303b905",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537537117769,
+        "stop" : 1537537117769,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9e82f1be20b80687",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536974191,
+        "stop" : 1537536974191,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1add93c18028971a",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536926427,
+        "stop" : 1537536926427,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "407c502477e50cd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536811353,
+        "stop" : 1537536816524,
+        "duration" : 5171
+      }
+    }, {
+      "uid" : "1b9fbac657fd8410",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536631600,
+        "stop" : 1537536636942,
+        "duration" : 5342
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6b7ad6a7bbadfdc.json",
+  "parameterValues" : [ ]
+}

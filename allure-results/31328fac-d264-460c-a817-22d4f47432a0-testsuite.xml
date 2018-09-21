@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1537537217376' stop='1537537224655'>
+    <name>Administration Functionality</name>
+    <title>Administration Functionality</title>
+    <test-cases>
+        <test-case start='1537537217376' status='failed' stop='1537537224653'>
+            <name>User should be able to delete the product</name>
+            <title>User should be able to delete the product</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1537537221769' status='passed' stop='1537537221848'>
+                    <name>Click Login button</name>
+                    <title>Click Login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537221848' status='passed' stop='1537537221953'>
+                    <name>Click on password field</name>
+                    <title>Click on password field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537221953' status='passed' stop='1537537222028'>
+                    <name>Click on email field</name>
+                    <title>Click on email field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537222028' status='passed' stop='1537537222113'>
+                    <name>Enter email</name>
+                    <title>Enter email</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537222113' status='passed' stop='1537537222172'>
+                    <name>Enter password</name>
+                    <title>Enter password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537222172' status='passed' stop='1537537222244'>
+                    <name>Click Sign In button</name>
+                    <title>Click Sign In button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537222499' status='passed' stop='1537537222556'>
+                    <name>Click Administration tab</name>
+                    <title>Click Administration tab</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537223507' status='passed' stop='1537537223714'>
+                    <name>Input to Search field</name>
+                    <title>Input to Search field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537223954' status='passed' stop='1537537224015'>
+                    <name>Click on Product</name>
+                    <title>Click on Product</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537224016' status='passed' stop='1537537224116'>
+                    <name>Click Delete button</name>
+                    <title>Click Delete button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537224286' status='broken' stop='1537537224361'>
+                    <name>Confirm deleting of product</name>
+                    <title>Confirm deleting of product</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='f58f37d9-5262-4b63-9118-cb7482724b13-attachment.png' type='image/png' size='52278'/>
+            </attachments>
+            <failure>
+                <message>Failed: unknown error: Element &lt;button _ngcontent-bxs-26="" aria-label="Close" class="btn gds-btn gds-ml-1 gds-btn-danger disabled" type="button">...&lt;/button> is not clickable at point (494, 430). Other element would receive the click: &lt;div _ngcontent-bxs-26="" class="modal-footer">...&lt;/div>
+                  (Session info: chrome=69.0.3497.100)
+                  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)</message>
+                <stack-trace>WebDriverError: unknown error: Element &lt;button _ngcontent-bxs-26="" aria-label="Close" class="btn gds-btn gds-ml-1 gds-btn-danger disabled" type="button">...&lt;/button> is not clickable at point (494, 430). Other element would receive the click: &lt;div _ngcontent-bxs-26="" class="modal-footer">...&lt;/div>
+                  (Session info: chrome=69.0.3497.100)
+                  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)
+                    at Object.checkLegacyResponse (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\selenium-webdriver\lib\error.js:546:15)
+                    at parseHttpResponse (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\selenium-webdriver\lib\http.js:509:13)
+                    at doSend.then.response (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\selenium-webdriver\lib\http.js:441:30)
+                    at &lt;anonymous>
+                    at process._tickCallback (internal/process/next_tick.js:188:7)Error
+                    at ElementArrayFinder.applyAction_ (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\protractor\built\element.js:459:27)
+                    at ElementArrayFinder.(anonymous function).args [as click] (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\protractor\built\element.js:91:29)
+                    at ElementFinder.(anonymous function).args [as click] (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\protractor\built\element.js:831:22)
+                    at allure.createStep (C:\Users\inha.kapitula\Academy_Inha_Kapitula\page_objects\admin_page.js:181:105)
+                    at C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\allure-js-commons\runtime.js:18:31
+                    at AdminPage.deleteProduct (C:\Users\inha.kapitula\Academy_Inha_Kapitula\page_objects\admin_page.js:181:113)
+                    at &lt;anonymous>
+                    at process._tickCallback (internal/process/next_tick.js:188:7)
+                From asynchronous test: 
+                Error
+                    at Suite.describe (C:\Users\inha.kapitula\Academy_Inha_Kapitula\tests\Delete_Prod.js:15:5)
+                    at addSpecsToSuite (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\inha.kapitula\Academy_Inha_Kapitula\tests\Delete_Prod.js:4:1)
+                    at Module._compile (module.js:652:30)
+                    at Object.Module._extensions..js (module.js:663:10)
+                    at Module.load (module.js:565:32)
+                    at tryModuleLoad (module.js:505:12)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

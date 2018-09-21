@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1537537172069' stop='1537537179617'>
+    <name>Administration Functionality</name>
+    <title>Administration Functionality</title>
+    <test-cases>
+        <test-case start='1537537172069' status='passed' stop='1537537179616'>
+            <name>Error message should be shown if required Name field is empty</name>
+            <title>Error message should be shown if required Name field is empty</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1537537176463' status='passed' stop='1537537176547'>
+                    <name>Click Login button</name>
+                    <title>Click Login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537176547' status='passed' stop='1537537176660'>
+                    <name>Click on password field</name>
+                    <title>Click on password field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537176660' status='passed' stop='1537537176736'>
+                    <name>Click on email field</name>
+                    <title>Click on email field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537176736' status='passed' stop='1537537176824'>
+                    <name>Enter email</name>
+                    <title>Enter email</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537176824' status='passed' stop='1537537176883'>
+                    <name>Enter password</name>
+                    <title>Enter password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537176883' status='passed' stop='1537537176956'>
+                    <name>Click Sign In button</name>
+                    <title>Click Sign In button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537177360' status='passed' stop='1537537177419'>
+                    <name>Click Administration tab</name>
+                    <title>Click Administration tab</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537178750' status='passed' stop='1537537178959'>
+                    <name>Click Add button</name>
+                    <title>Click Add button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537178959' status='passed' stop='1537537179017'>
+                    <name>Enter Product name</name>
+                    <title>Enter Product name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537179017' status='passed' stop='1537537179161'>
+                    <name>Click on Family drop down menu</name>
+                    <title>Click on Family drop down menu</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537179161' status='passed' stop='1537537179310'>
+                    <name>Input to Search field</name>
+                    <title>Input to Search field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='756fb9fd-da3c-481f-bcca-9361e50dc3e8-attachment.png' type='image/png' size='60220'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

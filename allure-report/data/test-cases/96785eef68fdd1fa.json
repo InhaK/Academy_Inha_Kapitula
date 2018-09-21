@@ -1,0 +1,286 @@
+{
+  "uid" : "96785eef68fdd1fa",
+  "name" : "User should be able to delete the product",
+  "fullName" : "Administration Functionality.User should be able to delete the product",
+  "historyId" : "90b465924663f17f5dde738499b51cc9",
+  "time" : {
+    "start" : 1537537605543,
+    "stop" : 1537537613646,
+    "duration" : 8103
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click Login button",
+      "time" : {
+        "start" : 1537537610029,
+        "stop" : 1537537610121,
+        "duration" : 92
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on password field",
+      "time" : {
+        "start" : 1537537610121,
+        "stop" : 1537537610238,
+        "duration" : 117
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on email field",
+      "time" : {
+        "start" : 1537537610238,
+        "stop" : 1537537610313,
+        "duration" : 75
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter email",
+      "time" : {
+        "start" : 1537537610313,
+        "stop" : 1537537610400,
+        "duration" : 87
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter password",
+      "time" : {
+        "start" : 1537537610400,
+        "stop" : 1537537610464,
+        "duration" : 64
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Sign In button",
+      "time" : {
+        "start" : 1537537610464,
+        "stop" : 1537537610536,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Administration tab",
+      "time" : {
+        "start" : 1537537610936,
+        "stop" : 1537537610998,
+        "duration" : 62
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Input to Search field",
+      "time" : {
+        "start" : 1537537612346,
+        "stop" : 1537537612595,
+        "duration" : 249
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on Product",
+      "time" : {
+        "start" : 1537537612861,
+        "stop" : 1537537612930,
+        "duration" : 69
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Delete button",
+      "time" : {
+        "start" : 1537537612931,
+        "stop" : 1537537613052,
+        "duration" : 121
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Confirm deleting of product",
+      "time" : {
+        "start" : 1537537613236,
+        "stop" : 1537537613322,
+        "duration" : 86
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "c48d87452ab9afc8",
+      "name" : "Screenshot",
+      "source" : "c48d87452ab9afc8.png",
+      "type" : "image/png",
+      "size" : 37906
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 11,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "User should be able to delete the product"
+  }, {
+    "name" : "package",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a6f1aa2bee701e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537336539,
+        "stop" : 1537537343941,
+        "duration" : 7402
+      }
+    }, {
+      "uid" : "4b7bf1586f2d3d03",
+      "status" : "failed",
+      "statusDetails" : "Failed: unknown error: Element <button _ngcontent-bxs-26=\"\" aria-label=\"Close\" class=\"btn gds-btn gds-ml-1 gds-btn-danger disabled\" type=\"button\">...</button> is not clickable at point (494, 430). Other element would receive the click: <div _ngcontent-bxs-26=\"\" class=\"modal-footer\">...</div>\n                  (Session info: chrome=69.0.3497.100)\n                  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)",
+      "time" : {
+        "start" : 1537537217376,
+        "stop" : 1537537224653,
+        "duration" : 7277
+      }
+    }, {
+      "uid" : "995094cc0273c432",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537537117793,
+        "stop" : 1537537117793,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b2f78be930fe3c5c",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536974214,
+        "stop" : 1537536974214,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c5376c6a144e8fea",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536926449,
+        "stop" : 1537536926449,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "574a87fa69e3a547",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536873801,
+        "stop" : 1537536881017,
+        "duration" : 7216
+      }
+    }, {
+      "uid" : "7341c6647ac383e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536694517,
+        "stop" : 1537536702166,
+        "duration" : 7649
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96785eef68fdd1fa.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1537536636946' stop='1537536647328'>
+    <name>Login Functionality</name>
+    <title>Login Functionality</title>
+    <test-cases>
+        <test-case start='1537536636946' status='passed' stop='1537536647328'>
+            <name>Error message should be displayed if user is trying to login with invalid credentials</name>
+            <title>Error message should be displayed if user is trying to login with invalid credentials</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1537536641412' status='passed' stop='1537536641527'>
+                    <name>Click Login button</name>
+                    <title>Click Login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536641527' status='passed' stop='1537536641647'>
+                    <name>Click on password field</name>
+                    <title>Click on password field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536641647' status='passed' stop='1537536641720'>
+                    <name>Click on email field</name>
+                    <title>Click on email field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536641720' status='passed' stop='1537536641805'>
+                    <name>Enter email</name>
+                    <title>Enter email</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536641805' status='passed' stop='1537536641876'>
+                    <name>Enter password</name>
+                    <title>Enter password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536641876' status='passed' stop='1537536641948'>
+                    <name>Click Sign In button</name>
+                    <title>Click Sign In button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='9a766e6c-42e2-4e44-8b16-0e72274437ee-attachment.png' type='image/png' size='17185'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,228 @@
+{
+  "uid" : "4b7bf1586f2d3d03",
+  "name" : "User should be able to delete the product",
+  "fullName" : "Administration Functionality.User should be able to delete the product",
+  "historyId" : "90b465924663f17f5dde738499b51cc9",
+  "time" : {
+    "start" : 1537537217376,
+    "stop" : 1537537224653,
+    "duration" : 7277
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: unknown error: Element <button _ngcontent-bxs-26=\"\" aria-label=\"Close\" class=\"btn gds-btn gds-ml-1 gds-btn-danger disabled\" type=\"button\">...</button> is not clickable at point (494, 430). Other element would receive the click: <div _ngcontent-bxs-26=\"\" class=\"modal-footer\">...</div>\n                  (Session info: chrome=69.0.3497.100)\n                  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)",
+  "statusTrace" : "WebDriverError: unknown error: Element <button _ngcontent-bxs-26=\"\" aria-label=\"Close\" class=\"btn gds-btn gds-ml-1 gds-btn-danger disabled\" type=\"button\">...</button> is not clickable at point (494, 430). Other element would receive the click: <div _ngcontent-bxs-26=\"\" class=\"modal-footer\">...</div>\n                  (Session info: chrome=69.0.3497.100)\n                  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)\n                    at Object.checkLegacyResponse (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n                    at parseHttpResponse (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n                    at doSend.then.response (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\selenium-webdriver\\lib\\http.js:441:30)\n                    at <anonymous>\n                    at process._tickCallback (internal/process/next_tick.js:188:7)Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.(anonymous function).args [as click] (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.(anonymous function).args [as click] (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\protractor\\built\\element.js:831:22)\n                    at allure.createStep (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\page_objects\\admin_page.js:181:105)\n                    at C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\allure-js-commons\\runtime.js:18:31\n                    at AdminPage.deleteProduct (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\page_objects\\admin_page.js:181:113)\n                    at <anonymous>\n                    at process._tickCallback (internal/process/next_tick.js:188:7)\n                From asynchronous test: \n                Error\n                    at Suite.describe (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\tests\\Delete_Prod.js:15:5)\n                    at addSpecsToSuite (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\tests\\Delete_Prod.js:4:1)\n                    at Module._compile (module.js:652:30)\n                    at Object.Module._extensions..js (module.js:663:10)\n                    at Module.load (module.js:565:32)\n                    at tryModuleLoad (module.js:505:12)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: unknown error: Element <button _ngcontent-bxs-26=\"\" aria-label=\"Close\" class=\"btn gds-btn gds-ml-1 gds-btn-danger disabled\" type=\"button\">...</button> is not clickable at point (494, 430). Other element would receive the click: <div _ngcontent-bxs-26=\"\" class=\"modal-footer\">...</div>\n                  (Session info: chrome=69.0.3497.100)\n                  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)",
+    "statusTrace" : "WebDriverError: unknown error: Element <button _ngcontent-bxs-26=\"\" aria-label=\"Close\" class=\"btn gds-btn gds-ml-1 gds-btn-danger disabled\" type=\"button\">...</button> is not clickable at point (494, 430). Other element would receive the click: <div _ngcontent-bxs-26=\"\" class=\"modal-footer\">...</div>\n                  (Session info: chrome=69.0.3497.100)\n                  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)\n                    at Object.checkLegacyResponse (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n                    at parseHttpResponse (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n                    at doSend.then.response (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\selenium-webdriver\\lib\\http.js:441:30)\n                    at <anonymous>\n                    at process._tickCallback (internal/process/next_tick.js:188:7)Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.(anonymous function).args [as click] (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.(anonymous function).args [as click] (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\protractor\\built\\element.js:831:22)\n                    at allure.createStep (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\page_objects\\admin_page.js:181:105)\n                    at C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\allure-js-commons\\runtime.js:18:31\n                    at AdminPage.deleteProduct (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\page_objects\\admin_page.js:181:113)\n                    at <anonymous>\n                    at process._tickCallback (internal/process/next_tick.js:188:7)\n                From asynchronous test: \n                Error\n                    at Suite.describe (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\tests\\Delete_Prod.js:15:5)\n                    at addSpecsToSuite (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\Users\\inha.kapitula\\Academy_Inha_Kapitula\\tests\\Delete_Prod.js:4:1)\n                    at Module._compile (module.js:652:30)\n                    at Object.Module._extensions..js (module.js:663:10)\n                    at Module.load (module.js:565:32)\n                    at tryModuleLoad (module.js:505:12)",
+    "steps" : [ {
+      "name" : "Click Login button",
+      "time" : {
+        "start" : 1537537221769,
+        "stop" : 1537537221848,
+        "duration" : 79
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on password field",
+      "time" : {
+        "start" : 1537537221848,
+        "stop" : 1537537221953,
+        "duration" : 105
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on email field",
+      "time" : {
+        "start" : 1537537221953,
+        "stop" : 1537537222028,
+        "duration" : 75
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter email",
+      "time" : {
+        "start" : 1537537222028,
+        "stop" : 1537537222113,
+        "duration" : 85
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter password",
+      "time" : {
+        "start" : 1537537222113,
+        "stop" : 1537537222172,
+        "duration" : 59
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Sign In button",
+      "time" : {
+        "start" : 1537537222172,
+        "stop" : 1537537222244,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Administration tab",
+      "time" : {
+        "start" : 1537537222499,
+        "stop" : 1537537222556,
+        "duration" : 57
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Input to Search field",
+      "time" : {
+        "start" : 1537537223507,
+        "stop" : 1537537223714,
+        "duration" : 207
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on Product",
+      "time" : {
+        "start" : 1537537223954,
+        "stop" : 1537537224015,
+        "duration" : 61
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Delete button",
+      "time" : {
+        "start" : 1537537224016,
+        "stop" : 1537537224116,
+        "duration" : 100
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Confirm deleting of product",
+      "time" : {
+        "start" : 1537537224286,
+        "stop" : 1537537224361,
+        "duration" : 75
+      },
+      "status" : "broken",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "6174edf8992b4f14",
+      "name" : "Screenshot",
+      "source" : "6174edf8992b4f14.png",
+      "type" : "image/png",
+      "size" : 52278
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 11,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "User should be able to delete the product"
+  }, {
+    "name" : "package",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b7bf1586f2d3d03.json",
+  "parameterValues" : [ ]
+}

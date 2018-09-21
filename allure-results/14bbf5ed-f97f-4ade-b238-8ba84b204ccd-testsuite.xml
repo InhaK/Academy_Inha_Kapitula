@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1537537329019' stop='1537537336535'>
+    <name>Administration Functionality</name>
+    <title>Administration Functionality</title>
+    <test-cases>
+        <test-case start='1537537329019' status='passed' stop='1537537336535'>
+            <name>User should be able to edit the product</name>
+            <title>User should be able to edit the product</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1537537333501' status='passed' stop='1537537333614'>
+                    <name>Click Login button</name>
+                    <title>Click Login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537333614' status='passed' stop='1537537333728'>
+                    <name>Click on password field</name>
+                    <title>Click on password field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537333728' status='passed' stop='1537537333810'>
+                    <name>Click on email field</name>
+                    <title>Click on email field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537333810' status='passed' stop='1537537333901'>
+                    <name>Enter email</name>
+                    <title>Enter email</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537333901' status='passed' stop='1537537333984'>
+                    <name>Enter password</name>
+                    <title>Enter password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537333984' status='passed' stop='1537537334066'>
+                    <name>Click Sign In button</name>
+                    <title>Click Sign In button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537334321' status='passed' stop='1537537334378'>
+                    <name>Click Administration tab</name>
+                    <title>Click Administration tab</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537335305' status='passed' stop='1537537335495'>
+                    <name>Input to Search field</name>
+                    <title>Input to Search field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537335707' status='passed' stop='1537537335777'>
+                    <name>Click on Product</name>
+                    <title>Click on Product</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537335823' status='passed' stop='1537537335858'>
+                    <name>Click on Product</name>
+                    <title>Click on Product</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537335858' status='passed' stop='1537537335999'>
+                    <name>Click Edit button</name>
+                    <title>Click Edit button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537335999' status='passed' stop='1537537336071'>
+                    <name>Change Product name</name>
+                    <title>Change Product name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537336071' status='passed' stop='1537537336152'>
+                    <name>Click Save button</name>
+                    <title>Click Save button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='a7d25490-d760-40a7-9aa2-dab3d6bff023-attachment.png' type='image/png' size='51580'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

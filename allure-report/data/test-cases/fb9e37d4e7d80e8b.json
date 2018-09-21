@@ -1,0 +1,225 @@
+{
+  "uid" : "fb9e37d4e7d80e8b",
+  "name" : "User should be able to access Administration tab",
+  "fullName" : "Administration Functionality.User should be able to access Administration tab",
+  "historyId" : "bc289fc0859843d3a990ad0bbec4c50",
+  "time" : {
+    "start" : 1537537562954,
+    "stop" : 1537537570469,
+    "duration" : 7515
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click Login button",
+      "time" : {
+        "start" : 1537537567665,
+        "stop" : 1537537567759,
+        "duration" : 94
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on password field",
+      "time" : {
+        "start" : 1537537567759,
+        "stop" : 1537537567883,
+        "duration" : 124
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on email field",
+      "time" : {
+        "start" : 1537537567883,
+        "stop" : 1537537567955,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter email",
+      "time" : {
+        "start" : 1537537567955,
+        "stop" : 1537537568062,
+        "duration" : 107
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter password",
+      "time" : {
+        "start" : 1537537568062,
+        "stop" : 1537537568132,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Sign In button",
+      "time" : {
+        "start" : 1537537568132,
+        "stop" : 1537537568215,
+        "duration" : 83
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Administration tab",
+      "time" : {
+        "start" : 1537537568621,
+        "stop" : 1537537568678,
+        "duration" : 57
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "7fb7c769f8d6548b",
+      "name" : "Screenshot",
+      "source" : "7fb7c769f8d6548b.png",
+      "type" : "image/png",
+      "size" : 68158
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 7,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "User should be able to access Administration tab"
+  }, {
+    "name" : "package",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dd6e84f3f3346064",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537294414,
+        "stop" : 1537537301319,
+        "duration" : 6905
+      }
+    }, {
+      "uid" : "af4f1cf1b98ef18e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537165188,
+        "stop" : 1537537172065,
+        "duration" : 6877
+      }
+    }, {
+      "uid" : "95f754ce3ded6c2f",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537537117781,
+        "stop" : 1537537117781,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8c84ed3652ced2ba",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536974202,
+        "stop" : 1537536974203,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4053f3de7a71bb12",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536926437,
+        "stop" : 1537536926437,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "61e289d90d889d66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536832395,
+        "stop" : 1537536839515,
+        "duration" : 7120
+      }
+    }, {
+      "uid" : "f6538bc7ca60dbcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536652773,
+        "stop" : 1537536659906,
+        "duration" : 7133
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb9e37d4e7d80e8b.json",
+  "parameterValues" : [ ]
+}

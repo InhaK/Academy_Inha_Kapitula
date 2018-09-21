@@ -1,0 +1,255 @@
+{
+  "uid" : "422f74c9f9f998d2",
+  "name" : "User should be able to search for a product",
+  "fullName" : "Administration Functionality.User should be able to search for a product",
+  "historyId" : "6ea493e0c4c4a6396ea578e94c9bf7d4",
+  "time" : {
+    "start" : 1537537590599,
+    "stop" : 1537537597779,
+    "duration" : 7180
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click Login button",
+      "time" : {
+        "start" : 1537537595051,
+        "stop" : 1537537595143,
+        "duration" : 92
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on password field",
+      "time" : {
+        "start" : 1537537595143,
+        "stop" : 1537537595273,
+        "duration" : 130
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on email field",
+      "time" : {
+        "start" : 1537537595273,
+        "stop" : 1537537595354,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter email",
+      "time" : {
+        "start" : 1537537595354,
+        "stop" : 1537537595439,
+        "duration" : 85
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter password",
+      "time" : {
+        "start" : 1537537595439,
+        "stop" : 1537537595501,
+        "duration" : 62
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Sign In button",
+      "time" : {
+        "start" : 1537537595501,
+        "stop" : 1537537595584,
+        "duration" : 83
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Administration tab",
+      "time" : {
+        "start" : 1537537595998,
+        "stop" : 1537537596058,
+        "duration" : 60
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Input to Search field",
+      "time" : {
+        "start" : 1537537597081,
+        "stop" : 1537537597342,
+        "duration" : 261
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on Product",
+      "time" : {
+        "start" : 1537537597444,
+        "stop" : 1537537597510,
+        "duration" : 66
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "75612cb0cd9337a8",
+      "name" : "Screenshot",
+      "source" : "75612cb0cd9337a8.png",
+      "type" : "image/png",
+      "size" : 43628
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 9,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "User should be able to search for a product"
+  }, {
+    "name" : "package",
+    "value" : "Administration Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3625cda8bc1c68b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537321799,
+        "stop" : 1537537329015,
+        "duration" : 7216
+      }
+    }, {
+      "uid" : "25c6943e7632b6bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537202031,
+        "stop" : 1537537209882,
+        "duration" : 7851
+      }
+    }, {
+      "uid" : "1727146d84215b2c",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537537117791,
+        "stop" : 1537537117791,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "36da08bff0828e6c",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536974211,
+        "stop" : 1537536974211,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "82c736ed78190317",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536926446,
+        "stop" : 1537536926446,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1523df004e628ea3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536859401,
+        "stop" : 1537536866439,
+        "duration" : 7038
+      }
+    }, {
+      "uid" : "46466563bc58cee8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536679965,
+        "stop" : 1537536687037,
+        "duration" : 7072
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "422f74c9f9f998d2.json",
+  "parameterValues" : [ ]
+}

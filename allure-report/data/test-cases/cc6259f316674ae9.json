@@ -1,0 +1,210 @@
+{
+  "uid" : "cc6259f316674ae9",
+  "name" : "User should be able to login into eds_university.eleks.com",
+  "fullName" : "Login Functionality.User should be able to login into eds_university.eleks.com",
+  "historyId" : "95d76f2e50a73f00ec68ed5331e7303d",
+  "time" : {
+    "start" : 1537537556896,
+    "stop" : 1537537562951,
+    "duration" : 6055
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click Login button",
+      "time" : {
+        "start" : 1537537561834,
+        "stop" : 1537537561936,
+        "duration" : 102
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on password field",
+      "time" : {
+        "start" : 1537537561936,
+        "stop" : 1537537562041,
+        "duration" : 105
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on email field",
+      "time" : {
+        "start" : 1537537562041,
+        "stop" : 1537537562118,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter email",
+      "time" : {
+        "start" : 1537537562118,
+        "stop" : 1537537562217,
+        "duration" : 99
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter password",
+      "time" : {
+        "start" : 1537537562217,
+        "stop" : 1537537562347,
+        "duration" : 130
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Sign In button",
+      "time" : {
+        "start" : 1537537562347,
+        "stop" : 1537537562436,
+        "duration" : 89
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b3d81e7795ebf9c4",
+      "name" : "Screenshot",
+      "source" : "b3d81e7795ebf9c4.png",
+      "type" : "image/png",
+      "size" : 20571
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "User should be able to login into eds_university.eleks.com"
+  }, {
+    "name" : "package",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f5a339cfb90fcd1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537288750,
+        "stop" : 1537537294409,
+        "duration" : 5659
+      }
+    }, {
+      "uid" : "812cbcc8a5990447",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537159450,
+        "stop" : 1537537165185,
+        "duration" : 5735
+      }
+    }, {
+      "uid" : "f563341350578af7",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537537117775,
+        "stop" : 1537537117775,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e6222e2bf61a83fa",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536974197,
+        "stop" : 1537536974197,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d49ca413facefc0f",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536926434,
+        "stop" : 1537536926434,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8c37750d3d326edd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536826797,
+        "stop" : 1537536832390,
+        "duration" : 5593
+      }
+    }, {
+      "uid" : "ad75a501d18b0baf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536647332,
+        "stop" : 1537536652768,
+        "duration" : 5436
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc6259f316674ae9.json",
+  "parameterValues" : [ ]
+}

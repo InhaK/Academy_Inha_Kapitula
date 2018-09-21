@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1537536625941' stop='1537536631589'>
+    <name>Login Functionality</name>
+    <title>Login Functionality</title>
+    <test-cases>
+        <test-case start='1537536625941' status='passed' stop='1537536631589'>
+            <name>Error should be displayed if User field is empty</name>
+            <title>Error should be displayed if User field is empty</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1537536630761' status='passed' stop='1537536630862'>
+                    <name>Click Login button</name>
+                    <title>Click Login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536630862' status='passed' stop='1537536630988'>
+                    <name>Click on password field</name>
+                    <title>Click on password field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536630988' status='passed' stop='1537536631063'>
+                    <name>Click on email field</name>
+                    <title>Click on email field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536631063' status='passed' stop='1537536631122'>
+                    <name>Enter email</name>
+                    <title>Enter email</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536631122' status='passed' stop='1537536631194'>
+                    <name>Enter password</name>
+                    <title>Enter password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537536631194' status='passed' stop='1537536631295'>
+                    <name>Click Sign In button</name>
+                    <title>Click Sign In button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='96b1ef1d-c20e-42d9-8b34-f6ba6db4ebad-attachment.png' type='image/png' size='17435'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,90 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1537537309189' stop='1537537321794'>
+    <name>Administration Functionality</name>
+    <title>Administration Functionality</title>
+    <test-cases>
+        <test-case start='1537537309189' status='passed' stop='1537537321794'>
+            <name>User should be able to create and save product</name>
+            <title>User should be able to create and save product</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1537537313680' status='passed' stop='1537537313776'>
+                    <name>Click Login button</name>
+                    <title>Click Login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537313776' status='passed' stop='1537537313888'>
+                    <name>Click on password field</name>
+                    <title>Click on password field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537313888' status='passed' stop='1537537313962'>
+                    <name>Click on email field</name>
+                    <title>Click on email field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537313962' status='passed' stop='1537537314082'>
+                    <name>Enter email</name>
+                    <title>Enter email</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537314082' status='passed' stop='1537537314145'>
+                    <name>Enter password</name>
+                    <title>Enter password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537314145' status='passed' stop='1537537314216'>
+                    <name>Click Sign In button</name>
+                    <title>Click Sign In button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537314465' status='passed' stop='1537537314527'>
+                    <name>Click Administration tab</name>
+                    <title>Click Administration tab</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537315703' status='passed' stop='1537537315869'>
+                    <name>Click Add button</name>
+                    <title>Click Add button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537315869' status='passed' stop='1537537315948'>
+                    <name>Enter Product name</name>
+                    <title>Enter Product name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537315948' status='passed' stop='1537537316094'>
+                    <name>Click on Family drop down menu</name>
+                    <title>Click on Family drop down menu</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537316094' status='passed' stop='1537537316193'>
+                    <name>Input to Search field</name>
+                    <title>Input to Search field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537316287' status='passed' stop='1537537316369'>
+                    <name>Click Save button</name>
+                    <title>Click Save button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='27c646d8-4c5b-4ee0-888b-81d804a56908-attachment.png' type='image/png' size='63519'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

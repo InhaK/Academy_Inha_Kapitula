@@ -1,0 +1,210 @@
+{
+  "uid" : "add0d2cadc6c1f2f",
+  "name" : "Error message should be displayed if user is trying to login with invalid credentials",
+  "fullName" : "Login Functionality.Error message should be displayed if user is trying to login with invalid credentials",
+  "historyId" : "651727cfb6ef1270ee1b27b0b857d115",
+  "time" : {
+    "start" : 1537537546524,
+    "stop" : 1537537556892,
+    "duration" : 10368
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Click Login button",
+      "time" : {
+        "start" : 1537537551002,
+        "stop" : 1537537551088,
+        "duration" : 86
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on password field",
+      "time" : {
+        "start" : 1537537551088,
+        "stop" : 1537537551195,
+        "duration" : 107
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click on email field",
+      "time" : {
+        "start" : 1537537551195,
+        "stop" : 1537537551272,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter email",
+      "time" : {
+        "start" : 1537537551272,
+        "stop" : 1537537551361,
+        "duration" : 89
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Enter password",
+      "time" : {
+        "start" : 1537537551361,
+        "stop" : 1537537551428,
+        "duration" : 67
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Sign In button",
+      "time" : {
+        "start" : 1537537551428,
+        "stop" : 1537537551503,
+        "duration" : 75
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "2c569fde932136ca",
+      "name" : "Screenshot",
+      "source" : "2c569fde932136ca.png",
+      "type" : "image/png",
+      "size" : 20417
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Error message should be displayed if user is trying to login with invalid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6b0f7670a3cd1ac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537278022,
+        "stop" : 1537537288746,
+        "duration" : 10724
+      }
+    }, {
+      "uid" : "7330758fd70b1e89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537537149183,
+        "stop" : 1537537159447,
+        "duration" : 10264
+      }
+    }, {
+      "uid" : "3dab5f63cbb1312f",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537537117772,
+        "stop" : 1537537117772,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c762b97a96c60ebc",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536974194,
+        "stop" : 1537536974194,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fd5902a678e1f345",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1537536926430,
+        "stop" : 1537536926430,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d6324751f51cfca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536816528,
+        "stop" : 1537536826792,
+        "duration" : 10264
+      }
+    }, {
+      "uid" : "ce1cec4ed020a7fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537536636946,
+        "stop" : 1537536647328,
+        "duration" : 10382
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "add0d2cadc6c1f2f.json",
+  "parameterValues" : [ ]
+}

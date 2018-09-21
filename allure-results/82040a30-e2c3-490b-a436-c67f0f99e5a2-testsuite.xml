@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1537537179621' stop='1537537202027'>
+    <name>Administration Functionality</name>
+    <title>Administration Functionality</title>
+    <test-cases>
+        <test-case start='1537537179621' status='failed' stop='1537537202027'>
+            <name>User should be able to create and save product</name>
+            <title>User should be able to create and save product</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1537537184298' status='passed' stop='1537537184383'>
+                    <name>Click Login button</name>
+                    <title>Click Login button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537184383' status='passed' stop='1537537184493'>
+                    <name>Click on password field</name>
+                    <title>Click on password field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537184493' status='passed' stop='1537537184561'>
+                    <name>Click on email field</name>
+                    <title>Click on email field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537184561' status='passed' stop='1537537184664'>
+                    <name>Enter email</name>
+                    <title>Enter email</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537184664' status='passed' stop='1537537184729'>
+                    <name>Enter password</name>
+                    <title>Enter password</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537184729' status='passed' stop='1537537184811'>
+                    <name>Click Sign In button</name>
+                    <title>Click Sign In button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537185069' status='passed' stop='1537537185133'>
+                    <name>Click Administration tab</name>
+                    <title>Click Administration tab</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537185959' status='passed' stop='1537537186129'>
+                    <name>Click Add button</name>
+                    <title>Click Add button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537186129' status='passed' stop='1537537186304'>
+                    <name>Enter Product name</name>
+                    <title>Enter Product name</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537186304' status='passed' stop='1537537186443'>
+                    <name>Click on Family drop down menu</name>
+                    <title>Click on Family drop down menu</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537186443' status='passed' stop='1537537186546'>
+                    <name>Input to Search field</name>
+                    <title>Input to Search field</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1537537186658' status='passed' stop='1537537186739'>
+                    <name>Click Save button</name>
+                    <title>Click Save button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot' source='a37bb5c7-7d90-407d-8a76-c8fe14458e5d-attachment.png' type='image/png' size='61807'/>
+            </attachments>
+            <failure>
+                <message>Failed: Wait timed out after 15007ms</message>
+                <stack-trace>TimeoutError: Wait timed out after 15007ms
+                    at C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\selenium-webdriver\lib\promise.js:2201:17
+                    at &lt;anonymous>
+                    at process._tickCallback (internal/process/next_tick.js:188:7)
+                From asynchronous test: 
+                Error
+                    at Suite.describe (C:\Users\inha.kapitula\Academy_Inha_Kapitula\tests\7.Save_Prod.js:15:5)
+                    at addSpecsToSuite (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\inha.kapitula\Academy_Inha_Kapitula\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\inha.kapitula\Academy_Inha_Kapitula\tests\7.Save_Prod.js:4:1)
+                    at Module._compile (module.js:652:30)
+                    at Object.Module._extensions..js (module.js:663:10)
+                    at Module.load (module.js:565:32)
+                    at tryModuleLoad (module.js:505:12)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

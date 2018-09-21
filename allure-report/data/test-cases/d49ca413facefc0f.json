@@ -1,0 +1,45 @@
+{
+  "uid" : "d49ca413facefc0f",
+  "name" : "User should be able to login into eds_university.eleks.com",
+  "fullName" : "Login Functionality.User should be able to login into eds_university.eleks.com",
+  "historyId" : "95d76f2e50a73f00ec68ed5331e7303d",
+  "time" : {
+    "start" : 1537536926434,
+    "stop" : 1537536926434,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "User should be able to login into eds_university.eleks.com"
+  }, {
+    "name" : "package",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d49ca413facefc0f.json",
+  "parameterValues" : [ ]
+}
